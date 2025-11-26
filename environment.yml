@@ -1,0 +1,9 @@
+name: dsci522-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas=2.1.4
+  - seaborn=0.12.2
+  - python=3.11
+prefix: /Users/boloor/miniforge3/envs/dsci522-env
